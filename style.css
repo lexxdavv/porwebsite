@@ -1,0 +1,11 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    text-align: center;
+    padding: 20px; 
+    background-color: #a8a8a8;
+}
+
+header {
+    text-align: center;
+}
