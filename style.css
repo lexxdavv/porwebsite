@@ -1,11 +1,27 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    margin: 20px;
     text-align: center;
-    padding: 20px; 
     background-color: #a8a8a8;
 }
 
-header {
-    text-align: center;
+#container {
+    height: 150px;
+    width: 150px;
+    position: relative;
+}
+
+#OnTheBottom {
+    position:absolute;
+    bottom: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    white-space: normal;
+    font-size: 10px;
+}
+
+#about {
+    text-align: right;
+    font-size: 75px;
+    position: relative;
+    margin-bottom: 200px;
+    padding-right: 50px;
 }
